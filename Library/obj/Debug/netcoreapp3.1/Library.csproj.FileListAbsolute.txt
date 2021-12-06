@@ -65,7 +65,6 @@ C:\Users\KurnikovA\source\repos\Library\Library\bin\Debug\netcoreapp3.1\runtimes
 C:\Users\KurnikovA\source\repos\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\appsettings.json
-E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
@@ -115,7 +114,6 @@ E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
@@ -124,7 +122,8 @@ E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.RazorTargetAssemblyInfo.cache
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CopyComplete
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\staticwebassets\Library.StaticWebAssets.Manifest.cache
-E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\staticwebassets\Library.StaticWebAssets.xml
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.GeneratedMSBuildEditorConfig.editorconfig
