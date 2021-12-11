@@ -127,3 +127,7 @@ E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
 E:\Users\Повелитель\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Users\Повелитель\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll

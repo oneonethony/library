@@ -8,7 +8,7 @@ namespace Library.Models
         public BooksContext(DbContextOptions<BooksContext> options)
             : base(options)
         {
-            Database.EnsureCreated();
+            //Database.EnsureDeleted();
         }
     }
 }

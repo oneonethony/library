@@ -28,9 +28,8 @@ namespace Library
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            string con = "Server=(localdb)\\mssqllocaldb;Database=booksdb;Trusted_Connection=True;";
-            // устанавливаем контекст данных
-            services.AddDbContext<BooksContext>(options => options.UseSqlServer(con));
+            string con = "Host=localhost;Port=5432;Database=booksdb;Username=postgres;Password=1234";
+            services.AddDbContext<BooksContext>(options => options.UseNpgsql(con));
 
             services.AddControllers();
             services.AddSpaStaticFiles(options => options.RootPath = "client-app/dist");
